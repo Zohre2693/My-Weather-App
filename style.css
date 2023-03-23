@@ -1,0 +1,69 @@
+.container {
+  border: 1px solid rgb(219, 214, 214);
+  width: 600px;
+  height: 500px;
+  box-shadow: 1px 1px 5px rgb(219, 213, 213);
+  padding: 20px;
+  max-width: 700px;
+  background-image: url("https://static.sciencelearn.org.nz/images/images/000/003/176/embed/FIR_ITV_RuralFireRisk_Weather_CloudySky_123RF_901534.jpg?1674170209");
+}
+
+body {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-family: "Poppins", sans-serif;
+}
+h2 {
+  margin-top: 30px;
+  position: relative;
+  left: 30px;
+  color: grey;
+}
+hr {
+  color: azure;
+  border: 5px solid whitesmoke;
+}
+.col-3 {
+  padding: 10px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+  width: 110px;
+  font-size: 15px;
+}
+.data {
+  position: relative;
+  top: -40px;
+  left: 250px;
+  font-size: 25px;
+}
+.degree {
+  font-size: 50px;
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+.centigrade {
+  font-size: 25px;
+  position: relative;
+  color: red;
+  top: 5px;
+  left: 30px;
+  text-decoration: none;
+}
+.farenheit {
+  font-size: 25px;
+  position: relative;
+  color: red;
+  top: 5px;
+  left: 30px;
+  text-decoration: none;
+}
+.dash {
+  font-size: 25px;
+  position: relative;
+  color: red;
+  top: 5px;
+  left: 30px;
+  text-decoration: none;
+}
